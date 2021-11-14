@@ -1,5 +1,7 @@
 ## HEAD (Unreleased)
-_(none)_
+
+* Avoid blocking the message loop for Docker builds in Python
+  [#314](https://github.com/pulumi/pulumi-docker/pull/314).
 
 ---
 
